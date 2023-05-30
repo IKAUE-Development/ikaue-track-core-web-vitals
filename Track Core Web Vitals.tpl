@@ -6,7 +6,7 @@ https://developers.google.com/tag-manager/gallery-tos (or such other URL as
 Google may provide), as modified from time to time.
 
 
- ___INFO___
+___INFO___
 
 {
   "type": "TAG",
@@ -18,7 +18,7 @@ Google may provide), as modified from time to time.
     "id": "brand_dummy",
     "displayName": ""
   },
-  "description": "Etiqueta empleada para registrar los Core Web Values y enviarlos juntos en un push del dataLayer una vez se han recogido todos.",
+  "description": "Etiqueta empleada para registrar los Core Web Vitals y enviarlos juntos en un push del dataLayer una vez se han recogido todos.",
   "containerContexts": [
     "WEB"
   ]
