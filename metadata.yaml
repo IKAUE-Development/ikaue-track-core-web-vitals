@@ -1,5 +1,5 @@
 homepage: "https://www.ikaue.com/"
 documentation: "https://raw.githubusercontent.com/IKAUE-Development/ikaue-track-core-web-vitals/main/README.md"
 versions:
-  - sha: 309fc3cde48691151134dfebf996d2ae35e23c55
+  - sha: 07763f3b283badd468744a40410040cfcc65b2ea
     changeNotes: Initial release.
