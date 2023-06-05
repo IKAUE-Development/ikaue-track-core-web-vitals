@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Track Core Web Vitals",
+  "categories": ["ANALYTICS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
